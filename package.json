@@ -1,8 +1,10 @@
 {
   "name": "my-markdown-editor",
   "version": "1.0.0",
-  "main": "index.js",
   "license": "MIT",
+  "author": {
+    "name": "Mr_ozin"
+  },
   "scripts": {
     "dev": "next dev",
     "build": "next build",
